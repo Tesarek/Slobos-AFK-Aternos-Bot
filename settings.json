@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "tesima121-uj8U.aternos.me",
+    "port": 11240,
     "version": "",
     "try-creative": false
   },
@@ -71,17 +71,5 @@
   "beds": {
     "pick-up-day": false,
     "place-night": false
-  },
-  "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
-    "events": {
-      "connect": true,
-      "disconnect": true,
-      "chat": false
-    }
-  },
-  "chat": {
-    "respond": true
-  }
-}
+
+ 
